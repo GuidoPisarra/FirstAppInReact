@@ -1,0 +1,38 @@
+
+
+{
+    "todo":[
+        {
+            "title":"Tarea 1",
+            "responsable": "Josefa Lopez",
+            "description" : "lorem ipsum",
+            "priority" :"Low"
+        },
+        {
+            "title":"Tarea 2",
+            "responsable": "Jose Gonzalez",
+            "description" : "lorem ipsum2",
+            "priority" :"Medium"
+        },
+        {
+            "title":"Tarea 3",
+            "responsable": "Ernesto Rodriguez",
+            "description" : "lorem ipsum3",
+            "priority" :"High"
+        },
+        {
+            "title":"Tarea 4",
+            "responsable": "Maria Perez",
+            "description" : "lorem ipsum3",
+            "priority" :"Medium"
+        },
+        {
+            "title":"Tarea 5",
+            "responsable": "Pepe",
+            "description" : "lorem ipsum4",
+            "priority" :"Low"
+        }
+
+
+    ]
+}
